@@ -780,7 +780,7 @@ sns.barplot(x = 'Age Group',y= 'Amount' ,data = sales_age)
     
 
 
-*From above graphs we can see that most of the buyers are of age group between 26-35 yrs female*
+*From above graphs we can see that most of the buyers are of age group between 26-35 yrs female.*
 
 ### State
 
