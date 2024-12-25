@@ -17,4 +17,4 @@ Exploratory Data Analysis (EDA): Includes detailed visualizations and statistica
 
 # Files
 * [Diwali_Sales_Analysis.ipynb](Diwali_Sales_Analysis.md): Main notebook containing the code, visualizations, and analysis.
-* [Datasets](Diwali_Sales_Data.xls): Ensure the required dataset is in the same directory as the notebook or adjust paths accordingly in the code.
+* [Datasets](Diwali_Sales_Analysis.xls): Ensure the required dataset is in the same directory as the notebook or adjust paths accordingly in the code.
