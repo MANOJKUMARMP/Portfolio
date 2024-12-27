@@ -16,5 +16,5 @@ Exploratory Data Analysis (EDA): Includes detailed visualizations and statistica
   Pandas, NumPy, Matplotlib, Seaborn
 
 # Files
-* [Diwali_Sales_Analysis.ipynb](Diwali_Sales_Analysis.md): Main notebook containing the code, visualizations, and analysis.
+* [Diwali_Sales_Analysis](Diwali_Sales_Analysis.md): Main notebook containing the code, visualizations, and analysis.
 * [Datasets](Data_set.xls): Ensure the required dataset is in the same directory as the notebook or adjust paths accordingly in the code.
